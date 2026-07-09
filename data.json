@@ -30,15 +30,6 @@
         "author": "vgonkivs",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-07T11:47:33Z"
-      },
-      {
-        "number": 5110,
-        "title": "fix: fix network tag in celestia version command (#5108)",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5110",
-        "repo": "celestia-node",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-09T14:06:31Z"
       }
     ],
     "mcrakhman": [
@@ -184,5 +175,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-09T14:18:44.386Z"
+  "fetchedAt": "2026-07-09T16:45:43.970Z"
 }
