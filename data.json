@@ -160,6 +160,15 @@
         "author": "rootulp",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-09T17:32:04Z"
+      },
+      {
+        "number": 5112,
+        "title": "fix(core): fetch cutoff height from P2P in RoutingExchange range split",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5112",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-12T00:09:37Z"
       }
     ],
     "evan-forbes": [],
@@ -212,5 +221,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-11T23:38:55.254Z"
+  "fetchedAt": "2026-07-12T01:11:23.019Z"
 }
