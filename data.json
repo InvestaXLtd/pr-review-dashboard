@@ -187,6 +187,15 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T11:08:09Z"
+      },
+      {
+        "number": 5121,
+        "title": "ci: re-enable unit tests with race detector",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5121",
+        "repo": "celestia-node",
+        "author": "neyy91",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T17:46:21Z"
       }
     ],
     "evan-forbes": [],
@@ -239,5 +248,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T17:45:44.412Z"
+  "fetchedAt": "2026-07-13T19:05:18.248Z"
 }
