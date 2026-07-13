@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7527,
-        "title": "chore(deps): bump github/codeql-action/analyze from 4.36.3 to 4.37.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7527",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:33:29Z"
-      },
-      {
         "number": 7531,
         "title": "chore(deps): bump actions/stale from 10.3.0 to 10.4.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7531",
@@ -48,15 +39,6 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       },
       {
-        "number": 3168,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.26 to 1.19.28",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3168",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:32:59Z"
-      },
-      {
         "number": 331,
         "title": "test: replace gofuzz with native Go fuzzing",
         "url": "https://github.com/celestiaorg/nmt/pull/331",
@@ -66,71 +48,7 @@
         "requestedAt": "2026-07-02T04:23:35Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 442,
-        "title": "chore: Bump ws from 8.19.0 to 8.21.0",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/442",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T04:05:25Z"
-      },
-      {
-        "number": 7497,
-        "title": "feat(fibre): maintain escrow balance client-side to avoid upload failures",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7497",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-03T19:06:28Z"
-      },
-      {
-        "number": 7528,
-        "title": "chore(deps): bump github/codeql-action/init from 4.36.3 to 4.37.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7528",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:33:38Z"
-      },
-      {
-        "number": 7534,
-        "title": "chore(deps): bump google.golang.org/api from 0.287.0 to 0.288.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7534",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:35:28Z"
-      },
-      {
-        "number": 7538,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.312.0 to 1.316.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7538",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:40:21Z"
-      },
-      {
-        "number": 3169,
-        "title": "build(deps): Bump github.com/grafana/pyroscope-go from 1.4.0 to 1.4.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3169",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:33:09Z"
-      },
-      {
-        "number": 3172,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.27 to 1.32.29",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3172",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-13T09:34:35Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -259,6 +177,60 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T09:33:29Z"
+      },
+      {
+        "number": 5115,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.3 to 3.0.5 in the patch-updates group",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5115",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:03:59Z"
+      },
+      {
+        "number": 5116,
+        "title": "chore(deps): bump the patch-updates group across 1 directory with 5 updates",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5116",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:25Z"
+      },
+      {
+        "number": 5117,
+        "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5117",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:35Z"
+      },
+      {
+        "number": 5118,
+        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5118",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:07:55Z"
+      },
+      {
+        "number": 5119,
+        "title": "chore(deps): bump golang.org/x/text from 0.38.0 to 0.40.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5119",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:08:00Z"
+      },
+      {
+        "number": 5120,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.16.0 to 0.17.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5120",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-13T11:08:09Z"
       }
     ],
     "evan-forbes": [],
@@ -311,5 +283,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-13T10:54:42.232Z"
+  "fetchedAt": "2026-07-13T13:11:16.199Z"
 }
