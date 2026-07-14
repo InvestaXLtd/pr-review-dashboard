@@ -12,15 +12,6 @@
         "requestedAt": "2026-07-13T09:33:53Z"
       },
       {
-        "number": 7533,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/config from 1.32.28 to 1.32.29",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7533",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-13T09:35:19Z"
-      },
-      {
         "number": 7537,
         "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7537",
@@ -39,7 +30,17 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7550,
+        "title": "fix(app): PrepareProposal must match Core's protobuf byte accounting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7550",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-14T14:05:52Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7497,
@@ -61,7 +62,7 @@
       },
       {
         "number": 7535,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.1",
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.2.13 to 0.3.2",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7535",
         "repo": "celestia-app",
         "author": "dependabot",
@@ -76,6 +77,15 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:41:52Z"
+      },
+      {
+        "number": 7550,
+        "title": "fix(app): PrepareProposal must match Core's protobuf byte accounting",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7550",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-07-14T14:05:45Z"
       },
       {
         "number": 3164,
@@ -107,15 +117,6 @@
     ],
     "vgonkivs": [
       {
-        "number": 7530,
-        "title": "chore(deps): bump golang.org/x/sys from 0.46.0 to 0.47.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7530",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T09:33:42Z"
-      },
-      {
         "number": 7532,
         "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0 in /test/docker-e2e",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7532",
@@ -125,33 +126,6 @@
         "requestedAt": "2026-07-13T09:35:11Z"
       },
       {
-        "number": 7536,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.27 to 1.19.28",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7536",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T09:38:38Z"
-      },
-      {
-        "number": 7540,
-        "title": "chore(deps): bump golang.org/x/term from 0.44.0 to 0.45.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7540",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T09:41:57Z"
-      },
-      {
-        "number": 5117,
-        "title": "chore(deps): bump golang.org/x/crypto from 0.53.0 to 0.54.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5117",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T14:50:59Z"
-      },
-      {
         "number": 5120,
         "title": "chore(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.16.0 to 0.17.0",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5120",
@@ -159,24 +133,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-13T11:08:09Z"
-      },
-      {
-        "number": 5121,
-        "title": "ci: re-enable unit tests with race detector",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5121",
-        "repo": "celestia-node",
-        "author": "neyy91",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T17:46:21Z"
-      },
-      {
-        "number": 271,
-        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
-        "url": "https://github.com/celestiaorg/go-square/pull/271",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-13T19:33:03Z"
       }
     ],
     "evan-forbes": [],
@@ -229,5 +185,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-14T12:20:06.745Z"
+  "fetchedAt": "2026-07-14T14:18:02.692Z"
 }
