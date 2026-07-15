@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-13T09:42:07Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 443,
-        "title": "chore: Bump actions/setup-node from 6 to 7",
-        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/443",
-        "repo": "blobstream-contracts",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-14T23:52:24Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7497,
@@ -176,5 +166,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-15T03:30:38.310Z"
+  "fetchedAt": "2026-07-15T05:54:07.266Z"
 }
