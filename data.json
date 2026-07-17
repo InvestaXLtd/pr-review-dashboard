@@ -116,6 +116,15 @@
     ],
     "vgonkivs": [
       {
+        "number": 5123,
+        "title": "feat(share/shrex): abort in-flight request on parent context cancel",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5123",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-17T10:06:14Z"
+      },
+      {
         "number": 424,
         "title": "chore(deps): Bump actions/setup-go from 6 to 7",
         "url": "https://github.com/celestiaorg/rsmt2d/pull/424",
@@ -175,5 +184,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-17T08:22:35.101Z"
+  "fetchedAt": "2026-07-17T10:13:54.785Z"
 }
