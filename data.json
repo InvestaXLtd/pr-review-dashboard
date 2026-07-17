@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-17T14:40:18Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7556,
-        "title": "fix(fibre): reject future dated PP creation timestamp",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7556",
-        "repo": "celestia-app",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-17T14:32:27Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7535,
@@ -95,15 +85,6 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-13T09:31:26Z"
-      },
-      {
-        "number": 3175,
-        "title": "feat(rpc/grpc): add time and catching-up to height events",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3175",
-        "repo": "celestia-core",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-16T18:42:19Z"
       }
     ],
     "vgonkivs": [
@@ -176,5 +157,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-17T15:46:32.227Z"
+  "fetchedAt": "2026-07-17T16:49:38.181Z"
 }
