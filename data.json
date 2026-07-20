@@ -150,6 +150,15 @@
         "author": "renaynay",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T14:25:30Z"
+      },
+      {
+        "number": 5132,
+        "title": "node: Add JWT auth token revocation",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5132",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T20:03:15Z"
       }
     ],
     "evan-forbes": [],
@@ -202,5 +211,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T19:58:01.357Z"
+  "fetchedAt": "2026-07-20T21:10:05.491Z"
 }
