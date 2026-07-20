@@ -6,12 +6,12 @@
       "year": 403
     },
     "ninabarbakadze": {
-      "week": 16,
+      "week": 0,
       "month": 28,
       "year": 441
     },
     "rach-id": {
-      "week": 32,
+      "week": 0,
       "month": 45,
       "year": 605
     },
@@ -21,7 +21,7 @@
       "year": 112
     },
     "vgonkivs": {
-      "week": 17,
+      "week": 0,
       "month": 44,
       "year": 163
     },
@@ -41,9 +41,9 @@
       "year": 84
     }
   },
-  "computedAt": "2026-07-19T01:53:45.406Z",
+  "computedAt": "2026-07-20T02:12:40.135Z",
   "windows": {
-    "weekStart": "2026-07-13T00:00:00.000Z",
+    "weekStart": "2026-07-20T00:00:00.000Z",
     "monthStart": "2026-07-01T00:00:00.000Z",
     "yearStart": "2026-01-01T00:00:00.000Z"
   }
