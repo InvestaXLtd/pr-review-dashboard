@@ -55,71 +55,17 @@
         "author": "NikhilSharmaWe",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-19T05:34:17Z"
-      },
-      {
-        "number": 3180,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.105.0 to 1.105.2",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3180",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-20T09:32:36Z"
-      },
-      {
-        "number": 3182,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.28 to 1.19.29",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3182",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-20T09:34:47Z"
       }
     ],
     "rach-id": [
       {
-        "number": 7559,
-        "title": "chore(deps): bump github/codeql-action/analyze from 4.37.0 to 4.37.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7559",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T09:33:06Z"
-      },
-      {
-        "number": 7563,
-        "title": "chore(deps): bump github/codeql-action/init from 4.37.0 to 4.37.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7563",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T09:33:34Z"
-      },
-      {
-        "number": 7565,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in /test/docker-e2e",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7565",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T09:34:56Z"
-      },
-      {
-        "number": 7569,
-        "title": "chore(deps): bump golang.org/x/sync from 0.21.0 to 0.22.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7569",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T09:40:33Z"
-      },
-      {
-        "number": 3177,
-        "title": "build(deps): Bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3177",
+        "number": 3151,
+        "title": "refactor!: remove the logic for batched txs in cat and config",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3151",
         "repo": "celestia-core",
-        "author": "dependabot",
+        "author": "ninabarbakadze",
         "reviewer": "rach-id",
-        "requestedAt": "2026-07-20T09:31:09Z"
+        "requestedAt": "2026-07-20T10:52:18Z"
       }
     ],
     "mcrakhman": [
@@ -176,27 +122,9 @@
         "author": "ninabarbakadze",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-07-06T16:11:01Z"
-      },
-      {
-        "number": 3179,
-        "title": "build(deps): Bump google.golang.org/grpc from 1.82.0 to 1.82.1",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3179",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T09:31:28Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7560,
-        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.5 to 4.0.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7560",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T09:33:10Z"
-      },
       {
         "number": 7566,
         "title": "chore(deps): bump github.com/digitalocean/godo from 1.198.0 to 1.199.0",
@@ -216,33 +144,6 @@
         "requestedAt": "2026-07-20T09:40:40Z"
       },
       {
-        "number": 3178,
-        "title": "build(deps): Bump slackapi/slack-github-action from 3.0.3 to 4.0.0",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3178",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T09:31:18Z"
-      },
-      {
-        "number": 3181,
-        "title": "build(deps): Bump github.com/aws/aws-sdk-go-v2/config from 1.32.29 to 1.32.30",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3181",
-        "repo": "celestia-core",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T09:33:40Z"
-      },
-      {
-        "number": 5123,
-        "title": "feat(share/shrex): abort in-flight request on parent context cancel",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5123",
-        "repo": "celestia-node",
-        "author": "mohsenm4",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-19T04:53:56Z"
-      },
-      {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
         "url": "https://github.com/celestiaorg/celestia-node/pull/5124",
@@ -252,13 +153,58 @@
         "requestedAt": "2026-07-19T06:48:07Z"
       },
       {
-        "number": 424,
-        "title": "chore(deps): Bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/rsmt2d/pull/424",
-        "repo": "rsmt2d",
+        "number": 5125,
+        "title": "chore(deps): bump actions/setup-go from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5125",
+        "repo": "celestia-node",
         "author": "dependabot",
         "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-16T15:52:37Z"
+        "requestedAt": "2026-07-20T11:03:54Z"
+      },
+      {
+        "number": 5126,
+        "title": "chore(deps): bump slackapi/slack-github-action from 3.0.5 to 4.0.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5126",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:04:00Z"
+      },
+      {
+        "number": 5127,
+        "title": "chore(deps): bump actions/setup-node from 6 to 7",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5127",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:04:03Z"
+      },
+      {
+        "number": 5128,
+        "title": "chore(deps): bump the patch-updates group across 2 directories with 1 update",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5128",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:51Z"
+      },
+      {
+        "number": 5129,
+        "title": "chore(deps): bump github.com/libp2p/go-libp2p-kad-dht from 0.41.0 to 0.42.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5129",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:06:58Z"
+      },
+      {
+        "number": 5130,
+        "title": "chore(deps): bump github.com/multiformats/go-multiaddr-dns from 0.5.0 to 0.6.0",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5130",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-20T11:07:25Z"
       }
     ],
     "evan-forbes": [],
@@ -311,5 +257,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-20T09:47:08.666Z"
+  "fetchedAt": "2026-07-20T12:04:52.943Z"
 }
