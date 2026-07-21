@@ -39,17 +39,7 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7571,
-        "title": "docs: add ADR 029 Fibre upload rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-21T13:42:13Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7539,
@@ -115,15 +105,6 @@
         "author": "dependabot",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T11:06:58Z"
-      },
-      {
-        "number": 5131,
-        "title": "chore: Add script to ensure dependabot PRs run go mod tidy on tastora go.mod",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5131",
-        "repo": "celestia-node",
-        "author": "renaynay",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-20T14:25:30Z"
       },
       {
         "number": 5132,
@@ -195,5 +176,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-21T14:23:26.175Z"
+  "fetchedAt": "2026-07-21T15:57:39.782Z"
 }
