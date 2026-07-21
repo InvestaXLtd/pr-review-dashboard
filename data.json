@@ -55,15 +55,6 @@
         "author": "NikhilSharmaWe",
         "reviewer": "ninabarbakadze",
         "requestedAt": "2026-07-19T05:34:17Z"
-      },
-      {
-        "number": 273,
-        "title": "chore(deps): bump actions/setup-go from 6 to 7",
-        "url": "https://github.com/celestiaorg/go-square/pull/273",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-20T19:33:00Z"
       }
     ],
     "rach-id": [],
@@ -211,5 +202,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-21T06:15:20.067Z"
+  "fetchedAt": "2026-07-21T08:46:23.143Z"
 }
