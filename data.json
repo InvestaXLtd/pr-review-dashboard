@@ -90,6 +90,15 @@
         "requestedAt": "2026-07-22T06:52:24Z"
       },
       {
+        "number": 3185,
+        "title": "test: re-enable TestReactorInvalidMessages",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3185",
+        "repo": "celestia-core",
+        "author": "NikhilSharmaWe",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-23T04:32:24Z"
+      },
+      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -196,5 +205,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T01:12:31.257Z"
+  "fetchedAt": "2026-07-23T04:32:37.903Z"
 }
