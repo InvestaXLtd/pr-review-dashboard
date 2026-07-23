@@ -21,17 +21,7 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 742,
-        "title": "refactor: make msgs run ante first and execution after",
-        "url": "https://github.com/celestiaorg/cosmos-sdk/pull/742",
-        "repo": "cosmos-sdk",
-        "author": "ninabarbakadze",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-22T17:02:41Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7539,
@@ -205,5 +195,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T07:10:01.662Z"
+  "fetchedAt": "2026-07-23T09:33:34.284Z"
 }
