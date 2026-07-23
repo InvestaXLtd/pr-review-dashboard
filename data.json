@@ -3,13 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7574,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7574",
+        "number": 7539,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.104.2 to 1.105.0",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7539",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-22T09:13:45Z"
+        "requestedAt": "2026-07-23T11:15:16Z"
       },
       {
         "number": 3176,
@@ -21,7 +21,17 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7573,
+        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
+        "repo": "celestia-app",
+        "author": "NikhilSharmaWe",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-23T09:56:21Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7539,
@@ -51,15 +61,6 @@
         "requestedAt": "2026-07-21T13:42:13Z"
       },
       {
-        "number": 7573,
-        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v7.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7573",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-22T07:29:14Z"
-      },
-      {
         "number": 272,
         "title": "chore(deps): bump actions/setup-node from 6 to 7",
         "url": "https://github.com/celestiaorg/go-square/pull/272",
@@ -70,15 +71,6 @@
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7572,
-        "title": "fix(deps): bump cosmos-sdk to v0.52.8 on v8.x",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7572",
-        "repo": "celestia-app",
-        "author": "NikhilSharmaWe",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-22T06:52:24Z"
-      },
       {
         "number": 3185,
         "title": "test: re-enable TestReactorInvalidMessages",
@@ -195,5 +187,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T09:33:34.284Z"
+  "fetchedAt": "2026-07-23T11:27:10.846Z"
 }
