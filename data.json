@@ -12,7 +12,17 @@
         "requestedAt": "2026-07-19T05:34:17Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 3176,
+        "title": "feat(privval): add remote KMS signing latency metrics and warnings",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3176",
+        "repo": "celestia-core",
+        "author": "NikhilSharmaWe",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-23T23:37:15Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7571,
@@ -150,5 +160,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-23T23:31:44.812Z"
+  "fetchedAt": "2026-07-24T00:58:23.344Z"
 }
