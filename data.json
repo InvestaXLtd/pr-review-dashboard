@@ -53,6 +53,15 @@
         "requestedAt": "2026-07-25T08:49:46Z"
       },
       {
+        "number": 7580,
+        "title": "fix(minfee): export params in ExportGenesis",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7580",
+        "repo": "celestia-app",
+        "author": "rach-id",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-26T08:39:00Z"
+      },
+      {
         "number": 4738,
         "title": "fix(core): Return partial response for headers if one fails",
         "url": "https://github.com/celestiaorg/celestia-node/pull/4738",
@@ -87,6 +96,15 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-20T20:03:15Z"
+      },
+      {
+        "number": 5134,
+        "title": "docgen: put auth header in openrpc method examples",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5134",
+        "repo": "celestia-node",
+        "author": "mohsenm4",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-07-26T06:44:47Z"
       }
     ],
     "evan-forbes": [],
@@ -159,5 +177,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-26T06:26:17.712Z"
+  "fetchedAt": "2026-07-26T08:44:01.130Z"
 }
