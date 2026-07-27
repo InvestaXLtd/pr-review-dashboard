@@ -30,17 +30,7 @@
         "requestedAt": "2026-07-27T09:40:17Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7598,
-        "title": "test(fibre): add missing e2e tests",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7598",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-07-27T09:52:25Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7571,
@@ -331,5 +321,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-27T11:43:16.893Z"
+  "fetchedAt": "2026-07-27T13:58:09.163Z"
 }
