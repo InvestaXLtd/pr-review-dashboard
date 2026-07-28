@@ -11,6 +11,15 @@
         "author": "NikhilSharmaWe",
         "reviewer": "rach-id",
         "requestedAt": "2026-07-28T10:22:47Z"
+      },
+      {
+        "number": 402,
+        "title": "chore(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1",
+        "url": "https://github.com/celestiaorg/go-header/pull/402",
+        "repo": "go-header",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-07-28T18:25:15Z"
       }
     ],
     "mcrakhman": [
@@ -216,17 +225,7 @@
       }
     ],
     "evan-forbes": [],
-    "walldiss": [
-      {
-        "number": 7571,
-        "title": "docs: add ADR 029 Fibre upload rate limiting",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7571",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "walldiss",
-        "requestedAt": "2026-07-21T13:42:13Z"
-      }
-    ],
+    "walldiss": [],
     "Wondertan": []
   },
   "teamMembers": [
@@ -275,5 +274,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-28T18:21:38.142Z"
+  "fetchedAt": "2026-07-28T19:56:28.902Z"
 }
