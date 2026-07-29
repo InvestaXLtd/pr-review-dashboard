@@ -1,7 +1,17 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [],
+    "ninabarbakadze": [
+      {
+        "number": 7597,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/credentials from 1.19.29 to 1.19.30",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7597",
+        "repo": "celestia-app",
+        "author": "dependabot",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-07-29T11:13:33Z"
+      }
+    ],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -255,5 +265,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-29T09:10:22.138Z"
+  "fetchedAt": "2026-07-29T11:32:43.653Z"
 }
