@@ -1,17 +1,7 @@
 {
   "reviews": {
     "rootulp": [],
-    "ninabarbakadze": [
-      {
-        "number": 7605,
-        "title": "refactor!: replace Arabica testnet with internal Corto testnet",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7605",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-30T15:30:24Z"
-      }
-    ],
+    "ninabarbakadze": [],
     "rach-id": [],
     "mcrakhman": [
       {
@@ -184,5 +174,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-07-31T10:06:33.892Z"
+  "fetchedAt": "2026-07-31T12:09:51.847Z"
 }
