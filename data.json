@@ -48,8 +48,36 @@
         "requestedAt": "2026-08-03T09:33:30Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 7599,
+        "title": "fix(fibre): signature verification bug",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-03T16:14:08Z"
+      },
+      {
+        "number": 7624,
+        "title": "docs: remove `availableDataHeader` from `Block` in specs",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7624",
+        "repo": "celestia-app",
+        "author": "rootulp",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-03T13:59:14Z"
+      }
+    ],
     "mcrakhman": [
+      {
+        "number": 7599,
+        "title": "fix(fibre): signature verification bug",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7599",
+        "repo": "celestia-app",
+        "author": "ninabarbakadze",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-03T15:20:36Z"
+      },
       {
         "number": 7607,
         "title": "feat(fibre): implement admission control and rate limiting",
@@ -177,6 +205,15 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-26T06:44:47Z"
+      },
+      {
+        "number": 5137,
+        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
+        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
+        "repo": "celestia-node",
+        "author": "dependabot",
+        "reviewer": "vgonkivs",
+        "requestedAt": "2026-08-03T14:19:43Z"
       }
     ],
     "evan-forbes": [],
@@ -239,5 +276,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T13:58:33.818Z"
+  "fetchedAt": "2026-08-03T16:24:28.810Z"
 }
