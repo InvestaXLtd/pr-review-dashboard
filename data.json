@@ -3,15 +3,6 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7583,
-        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-07-27T06:07:17Z"
-      },
-      {
         "number": 7609,
         "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/ec2 from 1.317.0 to 1.318.0",
         "url": "https://github.com/celestiaorg/celestia-app/pull/7609",
@@ -148,45 +139,9 @@
         "author": "dependabot",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-01T06:53:58Z"
-      },
-      {
-        "number": 272,
-        "title": "chore(deps): bump actions/setup-node from 6 to 7",
-        "url": "https://github.com/celestiaorg/go-square/pull/272",
-        "repo": "go-square",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-07-20T19:32:56Z"
       }
     ],
     "vgonkivs": [
-      {
-        "number": 7583,
-        "title": "fix(fibre): require the payment promise retention window to outlast the promise freshness window",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7583",
-        "repo": "celestia-app",
-        "author": "rach-id",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-31T16:27:34Z"
-      },
-      {
-        "number": 7615,
-        "title": "chore(deps): bump github/codeql-action/init from 4.37.3 to 4.37.4",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7615",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:36:59Z"
-      },
-      {
-        "number": 7623,
-        "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7623",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T09:41:23Z"
-      },
       {
         "number": 5124,
         "title": "nodebuilder/rpc: Make maxConcurrentConns configurable",
@@ -222,69 +177,6 @@
         "author": "mohsenm4",
         "reviewer": "vgonkivs",
         "requestedAt": "2026-07-26T06:44:47Z"
-      },
-      {
-        "number": 5137,
-        "title": "chore(deps): bump github.com/prometheus/client_golang from 1.23.2 to 1.24.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5137",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T11:06:47Z"
-      },
-      {
-        "number": 5138,
-        "title": "chore(deps): bump go.opentelemetry.io/proto/otlp from 1.10.0 to 1.11.0",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5138",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-27T11:06:57Z"
-      },
-      {
-        "number": 5140,
-        "title": "chore(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5140",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-28T10:07:49Z"
-      },
-      {
-        "number": 5141,
-        "title": "chore(deps): bump the patch-updates group across 2 directories with 3 updates",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5141",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-07-28T10:08:31Z"
-      },
-      {
-        "number": 5142,
-        "title": "chore(deps): bump github.com/pion/stun/v3 from 3.1.1 to 3.1.5",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5142",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-01T07:19:30Z"
-      },
-      {
-        "number": 5143,
-        "title": "chore(deps): bump github.com/pion/dtls/v3 from 3.1.2 to 3.1.4",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5143",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-01T07:20:39Z"
-      },
-      {
-        "number": 5145,
-        "title": "chore(deps): bump actions/stale from 10 to 11",
-        "url": "https://github.com/celestiaorg/celestia-node/pull/5145",
-        "repo": "celestia-node",
-        "author": "dependabot",
-        "reviewer": "vgonkivs",
-        "requestedAt": "2026-08-03T11:04:24Z"
       }
     ],
     "evan-forbes": [],
@@ -347,5 +239,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-03T11:33:57.633Z"
+  "fetchedAt": "2026-08-03T13:58:33.818Z"
 }
