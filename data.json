@@ -21,17 +21,7 @@
         "requestedAt": "2026-08-03T09:33:30Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7626,
-        "title": "fix!(fibre): prevent pruned promise replay after WithdrawalDelay increase",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7626",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-05T06:45:00Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
       {
         "number": 7599,
@@ -203,5 +193,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-05T06:45:20.708Z"
+  "fetchedAt": "2026-08-05T09:27:01.208Z"
 }
