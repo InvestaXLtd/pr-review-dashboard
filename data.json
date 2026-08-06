@@ -3,13 +3,13 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 7616,
-        "title": "chore(deps): bump github.com/hashicorp/go-metrics from 0.6.0 to 0.6.1",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7616",
+        "number": 7622,
+        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.106.0 to 1.106.3",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7622",
         "repo": "celestia-app",
         "author": "dependabot",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-03T17:04:45Z"
+        "requestedAt": "2026-08-06T10:28:22Z"
       },
       {
         "number": 3207,
@@ -21,27 +21,8 @@
         "requestedAt": "2026-08-05T19:30:53Z"
       }
     ],
-    "rach-id": [
-      {
-        "number": 7634,
-        "title": " feat(fibre)!: drop unused params",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7634",
-        "repo": "celestia-app",
-        "author": "vgonkivs",
-        "reviewer": "rach-id",
-        "requestedAt": "2026-08-05T14:49:47Z"
-      }
-    ],
+    "rach-id": [],
     "mcrakhman": [
-      {
-        "number": 7614,
-        "title": "chore(deps): bump github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager from 0.3.5 to 0.3.8",
-        "url": "https://github.com/celestiaorg/celestia-app/pull/7614",
-        "repo": "celestia-app",
-        "author": "dependabot",
-        "reviewer": "mcrakhman",
-        "requestedAt": "2026-08-03T09:36:56Z"
-      },
       {
         "number": 7618,
         "title": "chore(deps): bump google.golang.org/api from 0.290.0 to 0.291.0",
@@ -221,5 +202,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T09:18:27.235Z"
+  "fetchedAt": "2026-08-06T11:35:15.305Z"
 }
