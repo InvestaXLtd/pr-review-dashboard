@@ -3,16 +3,35 @@
     "rootulp": [],
     "ninabarbakadze": [
       {
-        "number": 3207,
-        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall",
-        "url": "https://github.com/celestiaorg/celestia-core/pull/3207",
-        "repo": "celestia-core",
-        "author": "rootulp",
+        "number": 7643,
+        "title": "fix(forwarding)!: include custom_hook_id in the canonical derivation path of forwarding address #7640",
+        "url": "https://github.com/celestiaorg/celestia-app/pull/7643",
+        "repo": "celestia-app",
+        "author": "jonas089",
         "reviewer": "ninabarbakadze",
-        "requestedAt": "2026-08-05T19:30:53Z"
+        "requestedAt": "2026-08-06T17:45:43Z"
+      },
+      {
+        "number": 3211,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3211",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "ninabarbakadze",
+        "requestedAt": "2026-08-06T16:47:48Z"
       }
     ],
-    "rach-id": [],
+    "rach-id": [
+      {
+        "number": 449,
+        "title": "chore: Bump github/codeql-action from 4.37.4 to 4.37.5",
+        "url": "https://github.com/celestiaorg/blobstream-contracts/pull/449",
+        "repo": "blobstream-contracts",
+        "author": "dependabot",
+        "reviewer": "rach-id",
+        "requestedAt": "2026-08-06T23:53:43Z"
+      }
+    ],
     "mcrakhman": [
       {
         "number": 7618,
@@ -49,6 +68,15 @@
         "author": "rootulp",
         "reviewer": "mcrakhman",
         "requestedAt": "2026-08-05T19:35:17Z"
+      },
+      {
+        "number": 3212,
+        "title": "fix(consensus): backport double-sign check off-by-one and statsMsgQueue stall (backport #3207)",
+        "url": "https://github.com/celestiaorg/celestia-core/pull/3212",
+        "repo": "celestia-core",
+        "author": "mergify",
+        "reviewer": "mcrakhman",
+        "requestedAt": "2026-08-06T16:47:58Z"
       },
       {
         "number": 5133,
@@ -184,5 +212,5 @@
     "greenMaxHours": 12,
     "yellowMaxHours": 24
   },
-  "fetchedAt": "2026-08-06T15:27:07.789Z"
+  "fetchedAt": "2026-08-07T00:28:18.685Z"
 }
